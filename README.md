@@ -11,9 +11,9 @@
 - 支持 WebDAV 备份/恢复（坚果云、Nextcloud 等）
 - 支持安装为桌面应用（PWA）
 
-[![](D:\CodeLab\Phd-pwa\imgs\1.jpg)](https://github.com/paul623/PhD-Manger/blob/main/imgs/1.jpg)
+![系统截图1](https://raw.githubusercontent.com/paul623/PhD-Manger/main/imgs/1.jpg)
 
-[![](D:\CodeLab\Phd-pwa\imgs\2.jpg)](https://github.com/paul623/PhD-Manger/blob/main/imgs/2.jpg)
+![系统截图2](https://raw.githubusercontent.com/paul623/PhD-Manger/main/imgs/2.jpg)
 
 ## 环境要求
 
